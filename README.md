@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture> <source media="(prefers-color-scheme: dark)" srcset="assets/logo-white.png"> <source media="(prefers-color-scheme: light)" srcset="assets/logo-dark.png"> <img alt="a logo for iran v2ray rules in both dark and light mode" src="assets/logo-dark.png"> </picture>
+
+نقشه ایران داخلش داره برای گیت هاب قشنگه
