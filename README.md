@@ -20,8 +20,5 @@ Here are some ideas to get you started:
 
 # Poriya58p's GitHub Profile
 ## My Contribution Graphs
-![Night Rainbow](./profile-3d-contrib/profile-night-rainbow.svg)
-![Light Theme](./profile-3d-contrib/profile-light.svg)
-<!-- 8 تصویر دیگر -->
-![Visitor Count](https://visitcount.itsvg.in/api?id=Poriya58p)
-Proudly created with [GPRM](https://gprm.itsvg.in)
+
+![GitHub Profile 3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
