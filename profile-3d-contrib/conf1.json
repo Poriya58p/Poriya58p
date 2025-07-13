@@ -1,0 +1,8 @@
+// profile-3d-contrib/conf1.json
+{
+  "theme": "night-rainbow",
+  "angle": 45,
+  "height": 200,
+  "color": "auto",
+  "showAxis": true
+}
